@@ -1,0 +1,3 @@
+*.csv
+*-images-idx3-ubyte
+*-labels-idx1-ubyte
